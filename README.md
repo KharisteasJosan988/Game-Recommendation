@@ -37,7 +37,7 @@ This project builds a game recommendation system using **TF-IDF Vectorization** 
 
 ---
 
-## 📈 Evaluation
+## Evaluation
 - Evaluated using:
   - Precision@K
 - Produces relevant recommendations based on content similarity
